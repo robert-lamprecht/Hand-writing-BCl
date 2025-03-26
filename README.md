@@ -9,7 +9,7 @@ Note:
 
 ## Project Structure
 
-'data/': contains the BCI dataset
-'notebooks/': Jupyter notebooks for data exploration
-'src/': Source code (helper functions so you're not writing hundreds of lines in a notebook)
-'results/': Generated figures and models
+1.'data/': contains the BCI dataset
+2.'notebooks/': Jupyter notebooks for data exploration
+3.'src/': Source code (helper functions so you're not writing hundreds of lines in a notebook)
+4.'results/': Generated figures and models
